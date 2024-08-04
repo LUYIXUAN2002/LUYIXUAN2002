@@ -1,7 +1,7 @@
 Hi I am LU YIXUAN from shanghai.
 I'm learning electric engineering in my university.
-I devote myself in learning C and python recently. Hope I could do some benefit yo this community.
-And wish I could be an expert in this area!
+I devote myself in learning C and python recently. Hope I could do some benefit to this community.
+And wish I could be an expert in this field!
 You could find me with e-mail: 1577935058@qq.com.
 Wish we all have a nice day and gain more fun today and later.
 
